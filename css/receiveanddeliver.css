@@ -65,6 +65,10 @@ body {
 #highlights h2 {
 	color: rgba(72,150,170,1.00);
 }
+.navbar-nav.mr-auto .nav-item .nav-link {
+	text-align: center;
+}
+
 
 
 
@@ -105,3 +109,4 @@ article h3   {
 	right: 6%;
 	top: -10px;
 }
+
